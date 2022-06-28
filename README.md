@@ -1,5 +1,5 @@
 # one-point-resource
-This is the problem solution for Smart India Hackathon 2022.
+This is the solution problem statement DR726 by AICTE for Smart India Hackathon 2022.
 
 
 
