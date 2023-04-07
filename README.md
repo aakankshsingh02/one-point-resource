@@ -3,8 +3,7 @@ This is the solution problem statement DR726 by AICTE for Smart India Hackathon 
 
 
 
-This Solution was accepted and team reached the National finals'22.
-
+This Solution was accepted and team reached the National finals'22 and stood 2nd Nationally
 
 
 
