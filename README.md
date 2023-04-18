@@ -16,4 +16,4 @@ The prototype is accessible at: https://aakankshsingh02.github.io/one-point-reso
 
 
 
-Further the complete build would be updated time to time during prototyping and after National Finals'22
+The complete project has been posted on my GitHub.
